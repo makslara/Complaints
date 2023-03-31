@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512613879122",
+    "project_id": "gocomlaints",
+    "storage_bucket": "gocomlaints.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512613879122:android:fc35f248d5f07e53563e8b",
+        "android_client_info": {
+          "package_name": "com.example.port"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512613879122-9o92ef0rrbg4q1qackti3huaf9c0ip6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOgRwHm1JjZ0th5kEN2CwduxZJTHTpr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512613879122-9o92ef0rrbg4q1qackti3huaf9c0ip6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
